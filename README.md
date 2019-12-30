@@ -1,2 +1,4 @@
 # FAUL
-The (well, a) FurAffinity Userscript Library. (also "faul" means "lazy" because wir sind faul)
+FurAffinity for lazy people.
+
+The FurAffinity Userscripts Library is exactly what it says on the tin: a library of handy userscripts designed for browsing FurAffinity.
